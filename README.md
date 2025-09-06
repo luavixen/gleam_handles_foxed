@@ -1,12 +1,14 @@
-[![Package Version](https://img.shields.io/hexpm/v/handles)](https://hex.pm/packages/handles)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/handles/)
+[![Package Version](https://img.shields.io/hexpm/v/handles_foxed)](https://hex.pm/packages/handles_foxed)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/handles_foxed)
 
-# handles
+# handles_foxed
 
-`handles` is a templating language written in pure Gleam. Heavily inspired by [mustache](https://mustache.github.io/) and [Handlebars.js](https://github.com/handlebars-lang/handlebars.js).
+`handles_foxed` is a templating language written in pure Gleam. Heavily inspired by [mustache](https://mustache.github.io/) and [Handlebars.js](https://github.com/handlebars-lang/handlebars.js).
+
+This fork has been updated for newer versions of Gleam, and has been renamed from `handles` to `handles_foxed`.
 
 ```sh
-gleam add handles
+gleam add handles_foxed
 ```
 
 ```gleam
@@ -36,7 +38,7 @@ pub fn main() {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/handles>.
+Further documentation can be found at <https://hexdocs.pm/handles_foxed>.
 
 ## Usage Documentation
 

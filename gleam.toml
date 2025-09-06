@@ -1,10 +1,10 @@
-name = "handles"
+name = "handles_foxed"
 version = "5.0.0"
 
-description = "Handles is a templating language written in pure Gleam. Heavily inspired by Mustache and Handlebars.js"
+description = "Handles is a templating language written in pure Gleam. This fork has been updated for newer versions of Gleam."
 licences = ["MIT"]
 
-repository = { type = "github", user = "olian04", repo = "gleam_handles" }
+repository = { type = "github", user = "luavixen", repo = "gleam_handles_foxed" }
 
 gleam = ">= 1.4.0"
 
